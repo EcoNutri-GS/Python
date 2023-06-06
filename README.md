@@ -8,6 +8,8 @@
 - Fabrizio El Ajouri Romano – **RM 550410**
 - Wesley Souza de Oliveira – **RM 97874**
 
+Vídeo explicativo do projeto pode ser acessado no [Youtube](https://youtu.be/TYb4fkegR18).
+
 ---
 
 # **EcoNutri: App de Doação de Alimentos, Dicas e Receitas**
