@@ -1,5 +1,9 @@
 # EcoNutri PYTHON - ESR1
 
+ O vídeo explicativo do projeto pode ser acessado no [Youtube](https://youtu.be/TYb4fkegR18).
+
+---
+
 ## Alunos
 
 - Deivison Pertel – **RM 550803**
